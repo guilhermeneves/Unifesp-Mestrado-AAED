@@ -7,7 +7,9 @@ Análise de desempenho de algoritmos de ordenação em diferentes cenários
 #### Exemplos de Execução
 
 Executa todos os sorts para um Array de 10 posições quase ordenado:
+
 ```./p1_code 10 4```
 
 Executa todos os sorts para um Array de 100000 posições aleatórias:
+
 ```'./p1_code 100000 1'```
