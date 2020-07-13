@@ -1,6 +1,5 @@
 # Unifesp - Mestrado - Análise de Algoritmos e Estruturas de Dados (AAED)
 Proposta de trabalho para disciplina AAED na Unifesp SJC.
-
 Análise de desempenho de algoritmos de ordenação em diferentes cenários.
 
 ## Descriçao
