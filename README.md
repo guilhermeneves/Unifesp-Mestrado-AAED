@@ -1,5 +1,6 @@
 # Unifesp - Mestrado - Análise de Algoritmos e Estruturas de Dados (AAED)
 Proposta de trabalho para disciplina AAED na Unifesp SJC.
+
 Análise de desempenho de algoritmos de ordenação em diferentes cenários.
 
 ## Descriçao
@@ -10,7 +11,7 @@ InsertionSort, SelectionSort, BubbleSort, HeapSort, MergeSort e QuickSort.
 Considere arranjos (vetores) com diferentes quantidades de elementos (10, 100, 1.000, 10.000,
 100.000, 1.000.000). Considere também arranjos sem valores repetidos. Considere ainda que todos
 os elementos dos arranjos correspondem a valores inteiros e, para gerar os arranjos iniciais, utilize:
-(i) arranjos ordenados, (ii) inversamente ordenados, (iii) quase ordenados e (iv ) aleatorios.
+(i) arranjos ordenados, (ii) inversamente ordenados, (iii) quase ordenados e (iv ) aleatórios.
 ## O que analisar
 A análise assintótica deve ser feita sobre o número de comparações de chaves e o número de
 movimentações de registros. Três métricas de desempenho deverão ser consideradas na comparação
