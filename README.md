@@ -31,4 +31,4 @@ Executa todos os sorts para um Array de 10 posições quase ordenado:
 
 Executa todos os sorts para um Array de 100000 posições aleatórias:
 
-```'./p1_code 100000 1'```
+```./p1_code 100000 1```
