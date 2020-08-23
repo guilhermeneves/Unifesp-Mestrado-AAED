@@ -4,7 +4,7 @@ Análise de desempenho de algoritmos de ordenação em diferentes cenários.
 
 ## Descriçao
 A análise do algoritmo será dividida em duas partes. A primeira parte refere-se a análise assintótica
-do algoritmo. Na segunda, a análise consistirá em comparar o algoritmo com os seguintes competidores:
+do algoritmo SplaySort. Na segunda, a análise consistirá em comparar o algoritmo com os seguintes competidores:
 InsertionSort, SelectionSort, BubbleSort, HeapSort, MergeSort e QuickSort.
 ## Como gerar os arranjos
 Considere arranjos (vetores) com diferentes quantidades de elementos (10, 100, 1.000, 10.000,
